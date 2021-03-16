@@ -21,4 +21,4 @@ fit_logistic <- function(dat, par){
   
 }
 
-```
+
